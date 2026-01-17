@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "crates/jxasper-core",
+    "crates/jxasper-cli",
+    "crates/jxasper-web"
+]
+resolver = "2"
